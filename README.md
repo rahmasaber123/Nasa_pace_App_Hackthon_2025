@@ -1,5 +1,11 @@
-<<<<<<< HEAD
-# HckthonFronted
+
+
+# Will It Rain In My Paradime 
+## Project Discription 
+### Forecast360 helps users plan outdoor activities by estimating the likelihood of different weather conditions for a given location and date. The app analyzes ### NASA’s historical weather variables (temperature, rainfall, wind speed, humidity, etc.) and computes empirical probabilities based on past occurrences for the ### same place and time of year.
+![Forecast360 — Hero screenshot](assets/screenshot.png)
+
+## HckthonFronted
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
 
@@ -71,3 +77,6 @@ Tools:
 AI Tools Used: No advanced AI tools were used in this project. Data processing and 
 visualization were done using standard Python libraries and APIs.
 >>>>>>> 3f1b20ee036e407b535121ee111632fc5e91000e
+# 👥 Team
+
+Forecast360 — Rahma Saber, Ali Abueldahab,Rawda Hesham ,Hager Ragheb,Ahmed Ayman
