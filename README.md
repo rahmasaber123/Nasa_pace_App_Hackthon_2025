@@ -3,7 +3,7 @@
 # Will It Rain In My Paradime 
 ## Project Discription 
 ### Forecast360 helps users plan outdoor activities by estimating the likelihood of different weather conditions for a given location and date. The app analyzes ### NASA’s historical weather variables (temperature, rainfall, wind speed, humidity, etc.) and computes empirical probabilities based on past occurrences for the ### same place and time of year.
-![Forecast360 — Hero screenshot](assets/screenshot.png)
+![Forecast360 — Hero screenshot](https://github.com/rahmasaber123/Nasa_pace_App_Hackthon_2025/blob/main/PROJECT_PIC.png?raw=true)
 
 ## HckthonFronted
 
